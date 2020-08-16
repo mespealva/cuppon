@@ -1,0 +1,17 @@
+.logo{
+   height:25px;
+   width: 86px; 
+}
+.logo-bajo{
+    height:25px;
+    width: 86px;   
+}
+.letra{
+    font-size: 0.875em;
+}
+.input{
+    align-content: center;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
